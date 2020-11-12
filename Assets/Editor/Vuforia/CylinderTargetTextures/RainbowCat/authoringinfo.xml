@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="RainbowCatCup" version="3.0" targetId="46620a4e85ed4304af731b22f5cf0460" sideLength="9.500000" topDiameter="8.000000" bottomDiameter="8.000000" sideImage="RainbowCatCup.Body_scaled.jpg" topImage="RainbowCatCup.Top_scaled.jpg" bottomImage="RainbowCatCup.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
